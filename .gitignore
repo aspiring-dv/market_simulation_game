@@ -1,9 +1,0 @@
-# Local scratch work
-*.ipynb
-
-
-# Generated Python files
-__pycache__/
-
-# Local Python environment
-.venv/
